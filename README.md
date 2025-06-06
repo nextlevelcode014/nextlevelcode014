@@ -32,7 +32,7 @@ What problem it solves -->
 ## Activity
 <div align="center">
 
-[![Recent Activity](https://github-readme-stats.vercel.app/api?username=nextlevelcode014&show_icons=true&count_private=true&hide_title=true&hide=contribs&theme=transparent)](https://github.com/username)
+[![Recent Activity](https://github-readme-stats.vercel.app/api?username=nextlevelcode014&show_icons=true&count_private=true&hide_title=true&hide=contribs&theme=transparent)](https://github.com/nextlevelcode014)
 
 </div>
 
