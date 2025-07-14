@@ -13,7 +13,7 @@ I'm a Computer Science student. I like to keep an open mind to continue learning
 `JavaScrip` `TypeScript` `Node.js` `React` `Next.js` `Bun` `Python` `Rust` `C`
 
 ## Tools & Platforms
-`Docker` `Git`
+`Docker` `Git` `Postgres` `Linux`
 
 ---
 
@@ -45,4 +45,4 @@ What problem it solves -->
 
 ---
 
-> "Don't make it complicated" - Me
+> "Don't make it complicated"
