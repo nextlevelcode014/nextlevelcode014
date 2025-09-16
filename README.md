@@ -45,4 +45,4 @@ What problem it solves -->
 
 ---
 
-> "Don't make it complicated"
+> "One day you'll look back so glad you pursued it"
