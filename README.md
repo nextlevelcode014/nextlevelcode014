@@ -10,7 +10,7 @@ I'm a Computer Science student. I like to keep an open mind to continue learning
 • Linux
 
 ## Core Technologies
-`JavaScrip` `TypeScript` `Node.js` `React` `Next.js` `Bun` `Python` `Rust` `C`
+`JavaScrip/TypeScript` `Node.js` `Python` `Rust` `C`
 
 ## Tools & Platforms
 `Docker` `Git` `Postgres` `Linux`
