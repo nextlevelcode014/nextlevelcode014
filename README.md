@@ -1,20 +1,25 @@
+<img src="assets/logo.png" alt="NextLevelCode logo" width="230" align="left">
+
 <pre>
 <b>nextlevelcode@homelab</b> ~ $ fastfetch
 
-   _   _ _     ____       <b>nextlevelcode</b>@<b>homelab</b>
-  | \ | | |   / ___|      ---------------------
-  |  \| | |  | |          <b>Role</b>      Systems administration &amp; infrastructure
-  | |\  | |__| |___       <b>Study</b>     Computer Science
-  |_| \_|_____\____|      <b>Hosts</b>     Proxmox · Raspberry Pi 5 · Hetzner VPS
-                          <b>IaC</b>       Terraform · Ansible
-                          <b>Network</b>   Tailscale, private by default
-                          <b>Secrets</b>   Vaultwarden · LUKS at rest
-                          <b>OS</b>        Linux, on every machine
-                          <b>Values</b>    Freedom · Privacy · Security
-                          <b>Also</b>      Bitcoin
+<b>nextlevelcode</b>@<b>homelab</b>
+---------------------
+<b>Role</b>      Systems administration &amp; infrastructure
+<b>Study</b>     Computer Science
+<b>Hosts</b>     Proxmox · Raspberry Pi 5 · Hetzner VPS
+<b>Router</b>    OpenWrt
+<b>IaC</b>       Terraform · Ansible
+<b>OS</b>        Linux, on every machine
+<b>Values</b>    Freedom · Privacy · Security
+<b>Also</b>      Bitcoin
 
-                          ⬛🟥🟩🟨🟦🟪🟦⬜
+⬛🟥🟩🟨🟦🟪🟦⬜
+</pre>
 
+<br clear="left">
+
+<pre>
 <b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
   I'd rather run my own services than rent them, and I manage them the
