@@ -8,7 +8,7 @@
 <b>Role</b>      Systems administration &amp; infrastructure
 <b>Study</b>     Computer Science
 <b>Hosts</b>     Proxmox · Raspberry Pi 5 · Hetzner VPS
-<b>Router</b>    OpenWrt
+<b>Network</b>   Tailscale · OpenWrt
 <b>IaC</b>       Terraform · Ansible
 <b>OS</b>        Linux, on every machine
 <b>Values</b>    Freedom · Privacy · Security
@@ -22,13 +22,16 @@
 <pre>
 <b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
-  I'd rather run my own services than rent them, and I manage them the
-  way I'd manage production: as code. Terraform provisions LXC containers
-  on a Proxmox node, and Ansible configures everything inside them — on
-  that node, on a Raspberry Pi 5 and on a Hetzner VPS that faces the
-  internet. Everything private is reached over Tailscale, secrets live in
-  my own Vaultwarden, and data at rest is encrypted with LUKS. New ideas
-  go to a separate lab I can destroy without touching any of it.
+  I work on the side of tech that keeps things running: Linux servers,
+  networks and the automation that holds them together. My focus is
+  systems administration and infrastructure — provisioning, configuration
+  management and treating every machine as something I can rebuild
+  from code.
+
+  I do it the way I believe it should be done: self-hosting over renting,
+  private networks over open ports, and docs that turn every manual step
+  into a checklist. New ideas get tested in an isolated lab before they
+  go anywhere near production.
 
 <b>nextlevelcode@homelab</b> ~ $ cat contact.txt
 
