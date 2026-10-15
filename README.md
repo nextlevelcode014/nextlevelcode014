@@ -1,5 +1,3 @@
-<img src="assets/logo.png" alt="NextLevelCode logo" width="320" align="left">
-
 <pre>
 <b>nextlevelcode@homelab</b> ~ $ fastfetch
 
@@ -15,11 +13,7 @@
 <b>Also</b>      Bitcoin
 
 ⬛🟥🟩🟨🟦🟪🟦⬜
-</pre>
 
-<br clear="left">
-
-<pre>
 <b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
   I work on the side of tech that keeps things running: Linux servers,
