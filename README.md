@@ -23,15 +23,8 @@
 <b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
   I work on the side of tech that keeps things running: Linux servers,
-  networks and the automation that holds them together. My focus is
-  systems administration and infrastructure — provisioning, configuration
-  management and treating every machine as something I can rebuild
-  from code.
-
-  I do it the way I believe it should be done: self-hosting over renting,
-  private networks over open ports, and docs that turn every manual step
-  into a checklist. New ideas get tested in an isolated lab before they
-  go anywhere near production.
+  networks and the automation behind them, always self-hosted and
+  private by default.
 
 <b>nextlevelcode@homelab</b> ~ $ cat contact.txt
 
