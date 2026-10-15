@@ -6,10 +6,14 @@ I like to keep an open mind, learn in public and collaborate on tools that respe
 
 ---
 
-## What I'm into
-- **My own infrastructure** — a self-hosted homelab on a Raspberry Pi 5, reached over Tailscale, plus my site at [nextlevelcode.pro](https://nextlevelcode.pro)
-- **Linux** — daily driver, always tinkering with the setup
-- **Bitcoin**
+## Running my own stuff
+I'd rather run my own services than rent them. My homelab lives on a Raspberry Pi 5:
+each service is its own Docker Compose stack, everything is reached privately over
+Tailscale, and secrets and data stay under my control. I write about it on
+[nextlevelcode.pro](https://nextlevelcode.pro).
+
+It's where I practice what I care about: Linux on every machine, owning my data,
+and the same mindset that draws me to Bitcoin — don't trust, verify.
 
 ---
 
