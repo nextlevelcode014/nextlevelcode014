@@ -1,47 +1,26 @@
-# Hello
+# Hi, I'm NextLevelCode
 
-I'm a Computer Science student. I like to keep an open mind to continue learning and receiving feedback, and to try to collaborate in some way in the development of new tools.
-
----
-
-## Really Cool Stuff
-• Mathematics
-• Bitcoin
-• Linux
-
-## Core Technologies
-`JavaScrip/TypeScript` `Node.js` `Python` `Rust` `C`
-
-## Tools & Platforms
-`Docker` `Git` `Postgres` `Linux`
+Computer Science student. Everything I build follows the same three principles:
+**freedom, privacy and security**.
+I like to keep an open mind, learn in public and collaborate on tools that respect their users.
 
 ---
 
-## Featured Projects
-→ **[DirSync](https://github.com/nextlevelcode014/dir_sync)**
-Real-Time Directory Synchronization with Monitoring
+## What I'm into
+- **Homelab / self-hosting** — my own services on a Raspberry Pi 5, reached over Tailscale
+- **Linux** — daily driver, always tinkering with the setup
+- **Bitcoin**
 
-→ **[NextLevelCode-Blog Backend](https://github.com/nextlevelcode014/backend-nextlevelcodeblog)**
-My Site's Backend made in Rust
+## Tech
+`Rust` `TypeScript` `Astro` `Python` `Shell` `C`
 
-<!-- → **[Library/Tool](https://github.com/username/repo)**
-What problem it solves -->
-
----
-
-## Activity
-<div align="center">
-
-[![Recent Activity](https://github-readme-stats.vercel.app/api?username=nextlevelcode014&show_icons=true&count_private=true&hide_title=true&hide=contribs&theme=transparent)](https://github.com/nextlevelcode014)
-
-</div>
+`Docker` `Linux` `Git` `PostgreSQL` `Tailscale` `Terraform` `Ansible`
 
 ---
 
 ## Contact
-↳ **Email**: [nextlevelcode014](nextlevelcode014@gmail.com)
-↳ **Website**: [nextlevelcode-blog](https://nextlevelcode-blog.vercel.app)
-<!-- ↳ **Professional**: [LinkedIn](https://linkedin.com/in/yourprofile) -->
+↳ **Email**: [nextlevelcode@proton.me](mailto:nextlevelcode@proton.me)
+↳ **Website**: [nextlevelcode.pro](https://nextlevelcode.pro)
 
 ---
 
