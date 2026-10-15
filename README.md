@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="NextLevelCode logo" width="230" align="left">
+<img src="assets/logo.png" alt="NextLevelCode logo" width="320" align="left">
 
 <pre>
 <b>nextlevelcode@homelab</b> ~ $ fastfetch
