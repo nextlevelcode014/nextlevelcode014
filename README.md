@@ -25,7 +25,8 @@
   I work on the side of tech that keeps things running: Linux servers,
   networks, backups and security. Hardening systems, watching over them
   and being ready to recover when something breaks or gets attacked.
-  Always self-hosted and private by default.
+  At home, everything is self-hosted and private by default; at work,
+  I use whatever the job calls for.
 
 <b>nextlevelcode@homelab</b> ~ $ cat contact.txt
 
