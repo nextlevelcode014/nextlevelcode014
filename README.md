@@ -23,10 +23,9 @@
 <b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
   I work on the side of tech that keeps things running: Linux servers,
-  networks, backups and security. Hardening systems, watching over them
-  and being ready to recover when something breaks or gets attacked.
-  At home, everything is self-hosted and private by default; at work,
-  I use whatever the job calls for.
+  networks, backups and security, from my own homelab to the cloud.
+  Hardening systems, watching over them and being ready to recover when
+  something breaks or gets attacked.
 
 <b>nextlevelcode@homelab</b> ~ $ cat contact.txt
 
