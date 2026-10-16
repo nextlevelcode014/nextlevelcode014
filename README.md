@@ -1,48 +1,42 @@
-# Hello
+<pre>
+<b>nextlevelcode@homelab</b> ~ $ fastfetch
 
-I'm a Computer Science student. I like to keep an open mind to continue learning and receiving feedback, and to try to collaborate in some way in the development of new tools.
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    <b>nextlevelcode</b>@<b>homelab</b>
+  █o┌──────────────────┐o█    ---------------------
+  █ │ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ·│ █    <b>Role</b>        Systems administration &amp; infrastructure
+  █o├──────────────────┤o█    <b>Study</b>       Computer Science
+  █ │ ▒▒ ▒▒ ▒▒ ▒▒  · * │ █    <b>Compute</b>     Virtualization · Containers · Bare metal
+  █o├──────────────────┤o█    <b>Cloud</b>       Public &amp; hybrid cloud
+  █ │ ▒▒ ▒▒ ▒▒ ▒▒  * · │ █    <b>Network</b>     Routing · Firewalls · VPN · Reverse proxy · DNS
+  █o├──────────────────┤o█    <b>Automation</b>  Infrastructure as Code · Config management · CI/CD
+  █ │ ▒▒ ▒▒ ▒▒ ▒▒  · · │ █    <b>Ops</b>         Monitoring · Backups · Disaster recovery
+  █o├──────────────────┤o█    <b>Security</b>    Hardening · Access control · Secrets management
+  █ │ ┌┐┌┐┌┐┌┐┌┐┌┐   · │ █    <b>Langs</b>       Rust · TypeScript/JavaScript · Python · Bash
+  █ │ └┘└┘└┘└┘└┘└┘     │ █    <b>Editor</b>      Neovim
+  █o├──────────────────┤o█    <b>OS</b>          Linux, on every machine
+  █ │ ░░░░░░░░░░  ▐██▌ │ █    <b>Locale</b>      pt-BR · learning en-US
+  █o└──────────────────┘o█    <b>Values</b>      Freedom · Privacy · Security
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    <b>Also</b>        Bitcoin
+   ▀▀                  ▀▀
+                              ⬛🟥🟩🟨🟦🟪🟦⬜
 
----
+<b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
-## Really Cool Stuff
-• Mathematics
-• Bitcoin
-• Linux
+  I work on the side of tech that keeps things running: Linux servers,
+  networks, backups and security, from my own homelab to the cloud.
+  Hardening systems, watching over them and being ready to recover when
+  something breaks or gets attacked.
 
-## Core Technologies
-`JavaScrip/TypeScript` `Node.js` `Python` `Rust` `C`
+<b>nextlevelcode@homelab</b> ~ $ cat contact.txt
 
-## Tools & Platforms
-`Docker` `Git` `Postgres` `Linux`
+  forge    <a href="https://forge.nextlevelcode.pro">forge.nextlevelcode.pro</a>    my code lives here
+  web      <a href="https://nextlevelcode.pro">nextlevelcode.pro</a>          where I write about it
+  status   <a href="https://status.nextlevelcode.pro">status.nextlevelcode.pro</a>   is it up?
+  mail     <a href="mailto:work@nextlevelcode.pro">work@nextlevelcode.pro</a>
 
----
+<b>nextlevelcode@homelab</b> ~ $ fortune
 
-## Featured Projects
-→ **[DirSync](https://github.com/nextlevelcode014/dir_sync)**
-Real-Time Directory Synchronization with Monitoring
+  "One day you'll look back so glad you pursued it"
 
-→ **[NextLevelCode-Blog Backend](https://github.com/nextlevelcode014/backend-nextlevelcodeblog)**
-My Site's Backend made in Rust
-
-<!-- → **[Library/Tool](https://github.com/username/repo)**
-What problem it solves -->
-
----
-
-## Activity
-<div align="center">
-
-[![Recent Activity](https://github-readme-stats.vercel.app/api?username=nextlevelcode014&show_icons=true&count_private=true&hide_title=true&hide=contribs&theme=transparent)](https://github.com/nextlevelcode014)
-
-</div>
-
----
-
-## Contact
-↳ **Email**: [nextlevelcode014](nextlevelcode014@gmail.com)
-↳ **Website**: [nextlevelcode-blog](https://nextlevelcode-blog.vercel.app)
-<!-- ↳ **Professional**: [LinkedIn](https://linkedin.com/in/yourprofile) -->
-
----
-
-> "One day you'll look back so glad you pursued it"
+<b>nextlevelcode@homelab</b> ~ $ █
+</pre>
