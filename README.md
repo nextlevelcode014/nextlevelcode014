@@ -1,18 +1,20 @@
 <pre>
 <b>nextlevelcode@homelab</b> ~ $ fastfetch
 
-<b>nextlevelcode</b>@<b>homelab</b>
----------------------
-<b>Role</b>      Systems administration &amp; infrastructure
-<b>Study</b>     Computer Science
-<b>Hosts</b>     Proxmox · Raspberry Pi 5 · Hetzner VPS
-<b>Network</b>   Tailscale · OpenWrt
-<b>IaC</b>       Terraform · Ansible
-<b>OS</b>        Linux, on every machine
-<b>Values</b>    Freedom · Privacy · Security
-<b>Also</b>      Bitcoin
-
-⬛🟥🟩🟨🟦🟪🟦⬜
+  ┌──────────────────┐    <b>nextlevelcode</b>@<b>homelab</b>
+  │ [====] :::::: o *│    ---------------------
+  ├──────────────────┤    <b>Role</b>      Systems administration &amp; infrastructure
+  │ [====] :::::: * o│    <b>Study</b>     Computer Science
+  ├──────────────────┤    <b>Hosts</b>     Proxmox · Raspberry Pi 5 · Hetzner VPS
+  │ |||||||||||||| * │    <b>Network</b>   Tailscale · OpenWrt
+  ├──────────────────┤    <b>IaC</b>       Terraform · Ansible
+  │ (o) (o) (o) (o) *│    <b>Editor</b>    Neovim
+  ├──────────────────┤    <b>OS</b>        Linux, on every machine
+  │ [====] :::::: o o│    <b>Locale</b>    pt-BR · learning en-US
+  ├──────────────────┤    <b>Values</b>    Freedom · Privacy · Security
+  │                  │    <b>Also</b>      Bitcoin
+  └──────────────────┘
+    ┴              ┴      ⬛🟥🟩🟨🟦🟪🟦⬜
 
 <b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
