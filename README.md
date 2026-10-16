@@ -5,17 +5,19 @@
   █o┌──────────────────┐o█    ---------------------
   █ │ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ·│ █    <b>Role</b>      Systems administration &amp; infrastructure
   █o├──────────────────┤o█    <b>Study</b>     Computer Science
-  █ │ ▒▒ ▒▒ ▒▒ ▒▒  · * │ █    <b>Hosts</b>     Proxmox · Raspberry Pi 5 · Hetzner VPS
-  █o├──────────────────┤o█    <b>Network</b>   Tailscale · OpenWrt
-  █ │ ▒▒ ▒▒ ▒▒ ▒▒  * · │ █    <b>IaC</b>       Terraform · Ansible
-  █o├──────────────────┤o█    <b>Editor</b>    Neovim
-  █ │ ┌┐┌┐┌┐┌┐┌┐┌┐   · │ █    <b>OS</b>        Linux, on every machine
-  █ │ └┘└┘└┘└┘└┘└┘     │ █    <b>Locale</b>    pt-BR · learning en-US
-  █o├──────────────────┤o█    <b>Values</b>    Freedom · Privacy · Security
-  █ │ ░░░░░░░░░░  ▐██▌ │ █    <b>Also</b>      Bitcoin
-  █o└──────────────────┘o█
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    ⬛🟥🟩🟨🟦🟪🟦⬜
-   ▀▀                  ▀▀
+  █ │ ▒▒ ▒▒ ▒▒ ▒▒  · * │ █    <b>Hosts</b>     Proxmox · Raspberry Pi 5
+  █o├──────────────────┤o█    <b>Cloud</b>     Hetzner · AWS · Google Cloud
+  █ │ ▒▒ ▒▒ ▒▒ ▒▒  * · │ █    <b>Network</b>   Tailscale · OpenWrt
+  █o├──────────────────┤o█    <b>IaC</b>       Terraform · Ansible
+  █ │ ▒▒ ▒▒ ▒▒ ▒▒  · · │ █    <b>Stack</b>     Docker · LXC · Caddy · Git
+  █o├──────────────────┤o█    <b>Langs</b>     Rust · TypeScript/JavaScript · Python · Bash
+  █ │ ┌┐┌┐┌┐┌┐┌┐┌┐   · │ █    <b>Editor</b>    Neovim
+  █ │ └┘└┘└┘└┘└┘└┘     │ █    <b>OS</b>        Linux, on every machine
+  █o├──────────────────┤o█    <b>Locale</b>    pt-BR · learning en-US
+  █ │ ░░░░░░░░░░  ▐██▌ │ █    <b>Values</b>    Freedom · Privacy · Security
+  █o└──────────────────┘o█    <b>Also</b>      Bitcoin
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+   ▀▀                  ▀▀     ⬛🟥🟩🟨🟦🟪🟦⬜
 
 <b>nextlevelcode@homelab</b> ~ $ cat about.txt
 
